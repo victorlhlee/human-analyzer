@@ -15,7 +15,7 @@ We need to project our supply of colonizers for the rest of the year. The previo
 We get many applicants that are eager to colonize new territories on our Project Exodus mission but it is important we only take the best and brightest(and most reproductive) who can help to build a new colony on Mars. We collect and test all applicants. Each applicant’s test results are summarized in an overall score. 
 
 
-# The data may not be fully clean but we’ll leave that up to you to decipher.
+#### The data may not be fully clean but we’ll leave that up to you to decipher.
 
 ### Your Objective:
 Given the test data provided for previous years, we need you to calculate the following about the applicant pool:
